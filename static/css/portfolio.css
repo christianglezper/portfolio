@@ -4,24 +4,6 @@
   --portfolio-max-copy: 760px;
 }
 
-/* Make the sidebar/profile portrait feel intentional rather than like a theme placeholder. */
-.avatar {
-  width: 132px;
-  height: 132px;
-  margin-bottom: 16px;
-}
-
-.avatar-inner img {
-  object-fit: cover;
-}
-
-@media (min-width: 901px) {
-  html.sidebar-collapsed .avatar {
-    width: 42px;
-    height: 42px;
-  }
-}
-
 .post-content,
 .page-content {
   line-height: 1.72;
@@ -61,9 +43,44 @@
   opacity: .9;
 }
 
+/* Project imagery: responsive, editorial and lightbox-friendly */
+.portfolio-image {
+  margin: 1.75rem 0 2.25rem;
+}
+
+.portfolio-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 900px;
+  object-fit: contain;
+  border-radius: 12px;
+}
+
+.portfolio-image figcaption {
+  margin-top: .65rem;
+  font-size: .8rem;
+  line-height: 1.45;
+  opacity: .7;
+}
+
+/* The profile portrait replaces the theme's tiny initial avatar. */
+.sidebar:not(.sidebar-collapsed) .avatar {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 18px;
+}
+
 @media (min-width: 900px) {
   .post-content,
   .page-content {
     font-size: 1.04rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .sidebar .avatar {
+    width: 120px;
+    height: 120px;
   }
 }
