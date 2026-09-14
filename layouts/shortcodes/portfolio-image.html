@@ -1,0 +1,7 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "Portfolio image" -}}
+{{- $caption := .Get "caption" -}}
+<figure class="portfolio-image">
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" loading="lazy">
+  {{- with $caption }}<figcaption>{{ . }}</figcaption>{{ end -}}
+</figure>
