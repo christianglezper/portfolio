@@ -75,13 +75,14 @@ enableRobotsTXT = true
       author = 'Christian González'
       tagline = '// Estratega de comunicación'
       bio = 'Comunicación, relaciones públicas, publicidad y tecnología para convertir ideas en mensajes, experiencias y oportunidades.'
+      avatar = '/images/christian-avatar.webp'
 
       [[languages.es.params.social]]
-        name = 'GitHub'
-        url = 'https://github.com/christianglezper'
+        name = 'LinkedIn'
+        url = 'https://linkedin.com/in/chrisegonzalez'
       [[languages.es.params.social]]
-        name = 'Email'
-        url = 'mailto:christianglezper@gmail.com'
+        name = 'Instagram'
+        url = 'https://instagram.com/christianglezper'
 
     [[languages.es.menus.main]]
       name = 'Inicio'
