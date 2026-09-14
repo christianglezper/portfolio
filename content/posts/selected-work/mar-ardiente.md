@@ -3,10 +3,13 @@ title: "Mar Ardiente — publicidad OOH y dirección creativa"
 description: "Piezas OOH para una marca de swimwear, desarrolladas para exposición durante la residencia de Bad Bunny en Puerto Rico."
 date: 2026-09-14T12:04:00-04:00
 tags: ["publicidad", "OOH", "dirección creativa", "marca"]
+cover: "images/projects/mar-ardiente-campaign.webp"
 toc: true
 ---
 
 <div class="portfolio-kicker">Publicidad · OOH · Dirección creativa</div>
+
+{{< portfolio-image src="images/projects/mar-ardiente-campaign.webp" alt="Arte publicitario horizontal de Mar Ardiente para activaciones en Plaza Las Américas" >}}
 
 ## Contexto
 
