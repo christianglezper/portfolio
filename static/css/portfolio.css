@@ -1,0 +1,51 @@
+/* Christian González — portfolio refinements for Spectra */
+
+:root {
+  --portfolio-max-copy: 760px;
+}
+
+.post-content,
+.page-content {
+  line-height: 1.72;
+}
+
+.post-content > p,
+.page-content > p {
+  max-width: var(--portfolio-max-copy);
+}
+
+.post-content h2,
+.page-content h2 {
+  margin-top: 2.4rem;
+}
+
+.post-content h3,
+.page-content h3 {
+  margin-top: 1.8rem;
+}
+
+.post-content strong,
+.page-content strong {
+  font-weight: 700;
+}
+
+.portfolio-kicker {
+  text-transform: uppercase;
+  letter-spacing: .11em;
+  font-size: .78rem;
+  opacity: .72;
+}
+
+.portfolio-note {
+  border-left: 3px solid var(--accent, currentColor);
+  padding: .2rem 0 .2rem 1rem;
+  margin: 1.5rem 0;
+  opacity: .9;
+}
+
+@media (min-width: 900px) {
+  .post-content,
+  .page-content {
+    font-size: 1.04rem;
+  }
+}
