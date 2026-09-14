@@ -1,0 +1,147 @@
+[nav_label]
+other = "Navegación"
+
+[categories]
+other = "Áreas"
+
+[view_all]
+other = "Ver todo"
+
+[tags]
+other = "Temas"
+
+[recent]
+other = "Reciente"
+
+[light_mode]
+other = "Modo claro"
+
+[dark_mode]
+other = "Modo oscuro"
+
+[banner_welcome]
+other = "Portafolio de"
+
+[banner_subtitle]
+other = "// comunicación × publicidad × relaciones públicas × IA"
+
+[welcome_sub]
+other = "estrategia · creatividad · ejecución"
+
+[loading]
+other = "CARGANDO"
+
+[min_read]
+other = "min de lectura"
+
+[go_back]
+other = "Volver"
+
+[blog_section]
+other = "Portafolio"
+
+[toc_title]
+other = "Contenido"
+
+[prev_post]
+other = "Anterior"
+
+[next_post]
+other = "Siguiente"
+
+[recent_posts]
+other = "Trabajo reciente"
+
+[latest_articles]
+other = "Proyectos seleccionados"
+
+[view_all_posts]
+other = "Ver todo el trabajo"
+
+[footer_text]
+other = "Creado con Hugo × Spectra"
+
+[code_copy]
+other = "Copiar"
+
+[code_copied]
+other = "¡Copiado!"
+
+[code_fallback]
+other = "CÓDIGO"
+
+[grid_view]
+other = "Cuadrícula"
+
+[list_view]
+other = "Lista"
+
+[posts_count]
+one = "proyecto"
+other = "proyectos"
+
+[all_posts]
+other = "Todo el trabajo"
+
+[no_posts]
+other = "Aún no hay proyectos publicados."
+
+[skip_to_content]
+other = "Ir al contenido"
+
+[toggle_theme]
+other = "Cambiar tema"
+
+[copyright]
+other = "Todos los derechos reservados."
+
+[error_404_title]
+other = "Página no encontrada"
+
+[error_404_message]
+other = "La página que buscas no existe o fue movida."
+
+[error_404_back]
+other = "Volver al inicio"
+
+[scroll_to_top]
+other = "Volver arriba"
+
+[toggle_line_numbers]
+other = "Alternar números de línea"
+
+[related_posts]
+other = "Proyectos relacionados"
+
+[series]
+other = "Serie"
+
+[series_view_all]
+other = "Ver toda la serie"
+
+[share]
+other = "Compartir"
+
+[share_copy_link]
+other = "Copiar enlace"
+
+[search]
+other = "Buscar"
+
+[search_placeholder]
+other = "Buscar proyectos..."
+
+[search_close]
+other = "Cerrar búsqueda"
+
+[search_hint]
+other = "Escribe para buscar"
+
+[search_no_results]
+other = "No se encontraron resultados"
+
+[search_loading]
+other = "Cargando índice de búsqueda..."
+
+[noscript_notice]
+other = "Algunas funciones requieren JavaScript."
