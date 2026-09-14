@@ -3,10 +3,13 @@ title: "Lush by Becky — e-commerce, copy y SEO"
 description: "Optimización de contenido para Shopify, descripciones de producto, SEO y campañas promocionales para una boutique en línea de Ponce."
 date: 2026-09-14T12:05:00-04:00
 tags: ["e-commerce", "copywriting", "SEO", "Shopify"]
+cover: "images/projects/lush-by-becky-site.webp"
 toc: true
 ---
 
 <div class="portfolio-kicker">E-commerce · Copywriting · SEO</div>
+
+{{< portfolio-image src="images/projects/lush-by-becky-site.webp" alt="Captura móvil de la tienda en línea Lush by Becky con navegación, carrito y promoción de eyewear" >}}
 
 ## Contexto
 
