@@ -4,6 +4,24 @@
   --portfolio-max-copy: 760px;
 }
 
+/* Make the sidebar/profile portrait feel intentional rather than like a theme placeholder. */
+.avatar {
+  width: 132px;
+  height: 132px;
+  margin-bottom: 16px;
+}
+
+.avatar-inner img {
+  object-fit: cover;
+}
+
+@media (min-width: 901px) {
+  html.sidebar-collapsed .avatar {
+    width: 42px;
+    height: 42px;
+  }
+}
+
 .post-content,
 .page-content {
   line-height: 1.72;
