@@ -1,0 +1,121 @@
+baseURL = 'https://christianglezper.github.io/portfolio/'
+defaultContentLanguage = 'es'
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[pagination]
+  pagerSize = 12
+
+[taxonomies]
+  tag = 'tags'
+  series = 'series'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/JoeYang1412/hugo-theme-spectra'
+
+[params]
+  homepagePostsLimit = 8
+  cardSummaryLength = 180
+  relatedPostsLimit = 3
+  cardImageQuality = 82
+  coverImageQuality = 88
+
+  bannerTitle = 'Christian'
+  bannerHighlight = 'González'
+  bannerSubtitle = '// comunicación × publicidad × relaciones públicas × IA'
+
+  enableLoadingAnimation = false
+  enableMouseGlow = true
+  showBanner = true
+  showReadingProgress = true
+  enableLightbox = true
+  showScrollTop = true
+  enableSearch = true
+  showRelatedPosts = true
+  showSeriesNav = false
+  enableCodeCopy = true
+  enableScrollAnimation = true
+
+  sharePlatforms = ['linkedin', 'facebook']
+  customCSS = ['css/portfolio.css']
+
+  [params.sidebar]
+    showAllPosts = true
+    showCategories = true
+    showTags = true
+    showRecent = true
+    categoryLimit = 6
+    tagsLimit = 18
+    recentLimit = 5
+
+[markup]
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = false
+    lineNos = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[languages]
+  [languages.es]
+    languageCode = 'es-pr'
+    languageName = 'Español'
+    weight = 1
+    title = 'Christian González | Portafolio'
+
+    [languages.es.params]
+      description = 'Portafolio profesional de Christian González: estrategia de comunicación, relaciones públicas, publicidad, contenido y proyectos digitales.'
+      author = 'Christian González'
+      tagline = '// Estratega de comunicación'
+      bio = 'Comunicación, relaciones públicas, publicidad y tecnología para convertir ideas en mensajes, experiencias y oportunidades.'
+
+      [[languages.es.params.social]]
+        name = 'GitHub'
+        url = 'https://github.com/christianglezper'
+      [[languages.es.params.social]]
+        name = 'Email'
+        url = 'mailto:christianglezper@gmail.com'
+
+    [[languages.es.menus.main]]
+      name = 'Inicio'
+      pageRef = '/'
+      weight = 1
+      pre = '⌂'
+    [[languages.es.menus.main]]
+      name = 'Trabajo'
+      pageRef = '/posts'
+      weight = 2
+      pre = '◆'
+    [[languages.es.menus.main]]
+      name = 'Sobre mí'
+      pageRef = '/about'
+      weight = 3
+      pre = '◉'
+    [[languages.es.menus.main]]
+      name = 'Contacto'
+      pageRef = '/contact'
+      weight = 4
+      pre = '✉'
+
+[related]
+  includeNewer = true
+  threshold = 50
+  toLower = true
+  [[related.indices]]
+    name = 'tags'
+    weight = 80
+  [[related.indices]]
+    name = 'date'
+    weight = 10
+    pattern = '2006'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
