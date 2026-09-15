@@ -2,6 +2,7 @@
 title: "Sobre mí"
 description: "Trayectoria, formación y enfoque profesional de Christian González Pérez, estratega de comunicación en Puerto Rico."
 date: 2026-09-15
+type: "page"
 layout: "about"
 toc: false
 lead: "Encuentro la tensión cultural dentro de un problema y la convierto en un brief, una campaña o una plataforma capaz de mover a la gente."
