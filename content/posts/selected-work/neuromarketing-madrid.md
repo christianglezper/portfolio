@@ -3,6 +3,7 @@ title: "Neuromarketing en Madrid — prominencia de producto y atención visual"
 description: "Estudio experimental sobre cómo la prominencia de producto influye en atención, recuerdo de marca, respuesta emocional e intención de compra."
 date: 2026-09-14T19:55:00-04:00
 tags: ["neuromarketing", "research", "eye tracking", "consumer insights", "Madrid"]
+cover: "https://res.cloudinary.com/m2el9wb5/image/upload/c_pad,w_1200,h_630,b_rgb:ea5743,f_auto,q_auto:best/v1789506378/portfolio/neuromarketing/portada-prominencia-producto.jpg"
 toc: true
 ---
 
