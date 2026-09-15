@@ -59,9 +59,8 @@ cover: "https://res.cloudinary.com/m2el9wb5/image/upload/c_fill,g_auto,w_1200,h_
 
 <div class="about-card-grid">
   <article class="about-card"><span>Universidad del Sagrado Corazón</span><h3>Relaciones Públicas y Comunicaciones Integradas</h3><p>Formación graduada en estrategia, investigación, manejo de crisis, campañas y comunicación integrada.</p></article>
-  <article class="about-card"><span>Broward International University</span><h3>MBA en Inteligencia Artificial</h3><p>Estudios orientados a conectar estrategia de negocio, transformación organizacional y aplicación responsable de inteligencia artificial.</p></article>
   <article class="about-card"><span>Universidad del Sagrado Corazón · 2016</span><h3>BA en Comunicación Creativa</h3><p>Preparación en periodismo, relaciones públicas, medios, redacción y producción de contenido.</p></article>
-  <article class="about-card"><span>Madrid · 2025</span><h3>Experiencia internacional y neuromarketing</h3><p>Investigación aplicada a prominencia de producto, eye tracking, respuesta emocional y consumer insights.</p></article>
+  <article class="about-card"><span>Universidad Complutense de Madrid · 2025</span><h3>Neuromarketing y experiencia internacional</h3><p>Investigación aplicada a prominencia de producto, eye tracking, respuesta emocional y consumer insights.</p></article>
 </div>
 
 ## Capacidades
