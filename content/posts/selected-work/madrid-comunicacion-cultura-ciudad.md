@@ -1,10 +1,11 @@
 ---
 title: "Madrid fuera del laboratorio — comunicación, cultura y ciudad"
 description: "Reflexiones de mi experiencia internacional en España sobre lenguaje, instituciones, patrimonio, comunicación pública y aprendizajes aplicables a Puerto Rico."
-date: 2025-11-18T12:00:00+01:00
+date: 2026-09-15T14:45:00-04:00
 tags: ["Madrid", "comunicación pública", "publicidad", "cultura", "España", "Puerto Rico"]
 toc: true
-draft: true
+draft: false
+cover: "https://res.cloudinary.com/m2el9wb5/image/upload/c_pad,w_1200,h_630,b_rgb:f3eee4,f_auto,q_auto:best/v1789483897/portfolio/madrid/campana-pensar-repartir.jpg"
 ---
 
 <div class="portfolio-kicker">Experiencia Internacional · Comunicación Pública · Cultura · Madrid</div>
@@ -19,9 +20,9 @@ Ese ejercicio cambió mi manera de pensar la comunicación estratégica. Una cam
 
 ## La RAE: el idioma también es infraestructura cultural
 
-<!-- IMAGE: IMG_5368.jpeg — emblema de la RAE -->
+{{< portfolio-image src="https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_1600/v1789483898/portfolio/madrid/rae-lema.jpg" alt="Emblema de la Real Academia Española con el lema Limpia, fija y da esplendor" caption="El emblema de la RAE convierte su misión lingüística en una identidad reconocible." >}}
 
-<!-- IMAGE: IMG_5372.jpeg — biblioteca de la RAE -->
+{{< portfolio-image src="https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_1600/v1789483900/portfolio/madrid/rae-diccionarios.jpg" alt="Vitrina de la Real Academia Española con diccionarios y bustos históricos" caption="Diccionarios, ediciones y memoria institucional: la lengua como patrimonio activo." >}}
 
 Visitar la **Real Academia Española** fue una de las experiencias que más me honró durante el viaje. Entrar a una institución dedicada a estudiar, preservar y moldear el idioma me hizo pensar en el lenguaje no solamente como herramienta profesional, sino como **infraestructura cultural**.
 
@@ -35,19 +36,11 @@ En **Toledo** encontré un contraste distinto al de Madrid: una ciudad más pequ
 
 Ese equilibrio me interesó particularmente desde Puerto Rico. Preservar un casco histórico no tiene por qué significar congelarlo. La pregunta útil es cómo permitir que la actividad económica, el turismo y la vida cotidiana sostengan el patrimonio en vez de desplazarlo.
 
-<!-- IMAGE: IMG_6089.jpeg — vista urbana de Segovia -->
-
-<!-- IMAGE: IMG_6055.jpeg — Acueducto de Segovia -->
-
 **Segovia** llevó esa reflexión todavía más lejos. Su arquitectura monumental forma parte del recorrido cotidiano de la ciudad y no se siente separada de ella. El Acueducto no funciona simplemente como objeto para fotografiar: estructura el espacio y la identidad del lugar.
 
 También conocí allí **Impulsa Comercio Segovia**, una iniciativa en la que el ayuntamiento utiliza incentivos para estimular el consumo en negocios locales. Ese modelo me hizo pensar inmediatamente en ciudades puertorriqueñas como Ponce: políticas comerciales pequeñas, bien comunicadas y fáciles de usar podrían ayudar a devolver flujo al casco urbano sin depender exclusivamente de grandes proyectos de revitalización.
 
 ## Instituciones que también comunican
-
-<!-- IMAGE: IMG_5605(1).jpeg — exterior del Congreso de los Diputados -->
-
-<!-- IMAGE: IMG_5573.jpeg — visita al interior del Congreso de los Diputados -->
 
 La visita al **Congreso de los Diputados** añadió otra capa a la experiencia. Más allá de la política partidista, entrar al espacio donde se debate y se legisla permitió observar cómo la arquitectura, el protocolo y la preservación histórica construyen una narrativa institucional.
 
@@ -57,15 +50,19 @@ Las instituciones no comunican únicamente mediante comunicados de prensa. **Com
 
 Uno de mis hábitos durante el viaje fue fotografiar anuncios. Me interesaban tanto las campañas comerciales como aquellas que utilizaban el espacio público para provocar una conversación.
 
-<!-- IMAGE: IMG_4770.jpeg — publicidad comercial observada en Madrid -->
+{{< portfolio-image src="https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_1600/v1789483899/portfolio/madrid/publicidad-de-jefe-a-jefe.jpg" alt="Publicidad de Late and Late Chocolate con el mensaje De jefe a jefe, espabila, que ya vas tarde" caption="Humor, urgencia y lenguaje cotidiano al servicio de una pieza comercial observada en Madrid." >}}
 
 En publicidad comercial encontré una disposición a utilizar **humor, lenguaje cotidiano y referencias culturales inmediatas**. La pieza funciona porque entiende el contexto en el que aparece: no intenta convertirse en un manifiesto, sino conseguir atención rápidamente y recompensarla con una idea reconocible.
 
-<!-- IMAGE: IMG_4756.jpeg — campaña municipal “Pensar es una tarea que también hay que repartir” -->
+{{< portfolio-image src="https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_1600/v1789483897/portfolio/madrid/campana-pensar-repartir.jpg" alt="Campaña pública roja en Madrid con el mensaje Pensar es una tarea que también hay que repartir" caption="Una campaña pública convierte la carga mental y el reparto del trabajo doméstico en una idea clara y memorable." >}}
 
 La comunicación pública fue todavía más reveladora. Mensajes como **“Pensar es una tarea que también hay que repartir”**, sobre la carga mental y la distribución del trabajo doméstico, demostraban que una institución pública puede hablar de problemas sociales con creatividad sin convertir cada pieza en un sermón.
 
-<!-- IMAGE: IMG_6469.jpeg — campañas de salud sexual e inclusión observadas en Madrid -->
+En la Universidad Complutense observé, además, campañas que intervenían el entorno cotidiano para cuestionar el acoso y expresiones homofóbicas que con frecuencia se normalizan.
+
+{{< portfolio-image src="https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_1600/v1789483895/portfolio/madrid/ucm-otro-sitio.jpg" alt="Cartel de la Universidad Complutense con el mensaje En otro sitio tú y yo lo podríamos pasar mejor" caption="Una frase aparentemente cotidiana se recontextualiza para llamar la atención sobre el acoso." >}}
+
+{{< portfolio-image src="https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_1600/v1789483886/portfolio/madrid/ucm-sudadera-rosa.jpg" alt="Cartel universitario que denuncia un comentario homofóbico sobre una sudadera rosa" caption="La campaña hace visible la violencia contenida en expresiones que con frecuencia se normalizan." >}}
 
 En espacios vinculados a la comunidad LGBT+ también observé comunicación de salud sexual mucho más visible, segmentada y directa. Los mensajes sobre consentimiento, chemsex y prevención no parecían escritos para un “público general” abstracto: **reconocían a la audiencia, su vocabulario y sus situaciones reales**.
 
@@ -91,4 +88,4 @@ Ese es quizás el aprendizaje que más quiero aplicar en Puerto Rico: **comunica
 
 ---
 
-*Esta reflexión forma parte de mi Experiencia Internacional de Relaciones Públicas y Comunicación Integrada en España. El componente de investigación desarrollado durante el viaje puede consultarse también en el caso de estudio de neuromarketing de este portafolio.*
+*Esta reflexión forma parte de mi Experiencia Internacional de Relaciones Públicas y Comunicación Integrada en España. El componente de investigación desarrollado durante el viaje puede consultarse también en el [caso de estudio de neuromarketing]({{< relref "neuromarketing-madrid.md" >}}) de este portafolio.*
