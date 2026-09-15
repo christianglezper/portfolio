@@ -44,6 +44,22 @@ jobs:
           tar -C "${HOME}/.local/hugo" -xf "hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
           echo "${HOME}/.local/hugo" >> "${GITHUB_PATH}"
 
+      - name: Prepare portfolio image assets
+        run: |
+          set -euo pipefail
+          mkdir -p static/images/projects
+          tr -d '\r\n ' < static/images/projects/neuromarketing-metodologia.b64.txt | base64 --decode > static/images/projects/neuromarketing-metodologia.webp
+          cat static/images/projects/neuromarketing-conclusiones.part1.b64.txt \
+              static/images/projects/neuromarketing-conclusiones.part2.b64.txt \
+              static/images/projects/neuromarketing-conclusiones.part3.b64.txt \
+              static/images/projects/neuromarketing-conclusiones.part4.b64.txt \
+            | tr -d '\r\n ' | base64 --decode > static/images/projects/neuromarketing-conclusiones.webp
+          tr -d '\r\n ' < static/images/projects/neuromarketing-recomendaciones.b64.txt | base64 --decode > static/images/projects/neuromarketing-recomendaciones.webp
+          test -s static/images/projects/neuromarketing-metodologia.webp
+          test -s static/images/projects/neuromarketing-conclusiones.webp
+          test -s static/images/projects/neuromarketing-recomendaciones.webp
+          file static/images/projects/neuromarketing-*.webp
+
       - name: Build site
         run: |
           hugo build \
