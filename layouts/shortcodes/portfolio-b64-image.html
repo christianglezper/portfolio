@@ -1,7 +1,16 @@
-{{- $src := .Get "src" -}}
 {{- $alt := .Get "alt" | default "" -}}
 {{- $caption := .Get "caption" | default "" -}}
-{{- $data := readFile $src -}}
+{{- $data := "" -}}
+{{- with .Get "src" -}}
+  {{- $data = readFile . -}}
+{{- else -}}
+  {{- range seq 1 6 -}}
+    {{- $key := printf "src%d" . -}}
+    {{- with $.Get $key -}}
+      {{- $data = printf "%s%s" $data (readFile .) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 <figure class="portfolio-project-image">
   <img src="data:image/webp;base64,{{ $data | safeHTMLAttr }}" alt="{{ $alt }}" loading="lazy" decoding="async">
   {{- with $caption }}<figcaption>{{ . }}</figcaption>{{ end -}}
