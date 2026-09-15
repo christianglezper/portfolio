@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+{{ if ne site.Params.showBanner false }}{{- partial "banner.html" . -}}{{ end }}
+
+<main class="main-content">
+  <section class="home-about" aria-labelledby="home-about-title">
+    <div class="home-about-copy">
+      <div class="portfolio-kicker">Sobre mí</div>
+      <h2 id="home-about-title">Estrategia con contexto. Comunicación que mueve.</h2>
+      <p>Soy <strong>Christian González Pérez</strong>, estratega de comunicación puertorriqueño. Encuentro la tensión cultural dentro de un problema y la convierto en un brief, una campaña o una plataforma capaz de mover a la gente.</p>
+      <p>Combino investigación, relaciones públicas, publicidad, contenido y tecnología para ayudar a organizaciones y comunidades a comunicar con claridad y propósito.</p>
+      <div class="profile-tags" aria-label="Áreas de especialidad">
+        <span>Inteligencia cultural</span>
+        <span>Comunicación integrada</span>
+        <span>Audience insight</span>
+        <span>Storytelling bilingüe</span>
+      </div>
+      <div class="portfolio-actions">
+        <a class="portfolio-button" href="{{ "about/" | relLangURL }}">Conoce mi trayectoria <span aria-hidden="true">→</span></a>
+        <a class="portfolio-button portfolio-button-secondary" href="{{ "contact/" | relLangURL }}">Hablemos</a>
+      </div>
+    </div>
+    <figure class="home-about-portrait">
+      <img src="https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_720/v1789509987/portfolio/profile/christian-circle-portrait.jpg" alt="Retrato profesional de Christian González sentado frente a una composición circular oscura" loading="lazy" decoding="async">
+    </figure>
+  </section>
+
+  <div class="section-label">{{ i18n "recent_posts" }}</div>
+  <h2 class="section-title">{{ i18n "latest_articles" }}</h2>
+
+  {{ with site.GetPage "/posts" }}
+  {{ $posts := .RegularPagesRecursive }}
+  {{ $limit := site.Params.homepagePostsLimit | default 10 }}
+  {{ range first $limit $posts.ByDate.Reverse }}
+    {{- partial "post-card.html" . -}}
+  {{ end }}
+
+  {{ if gt (len $posts) $limit }}
+  <div class="pagination">
+    <a href="{{ .RelPermalink }}">{{ i18n "view_all_posts" }} &rarr;</a>
+  </div>
+  {{ end }}
+  {{ end }}
+</main>
+
+{{- partial "footer.html" . -}}
+
+{{ end }}

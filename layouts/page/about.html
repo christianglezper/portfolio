@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+<main class="main-content about-page">
+  <section class="about-hero" aria-labelledby="about-title">
+    <div class="about-hero-copy">
+      <div class="section-label">Perfil profesional</div>
+      <h1 id="about-title">{{ .Title }}</h1>
+      <p class="about-lede">{{ .Params.lead }}</p>
+      <div class="portfolio-actions">
+        <a class="portfolio-button" href="{{ "posts/" | relLangURL }}">Explora mi trabajo <span aria-hidden="true">→</span></a>
+        <a class="portfolio-button portfolio-button-secondary" href="mailto:christianglezper@gmail.com">Escríbeme</a>
+      </div>
+    </div>
+    <figure class="about-portrait">
+      <img src="{{ .Params.portrait }}" alt="Retrato profesional de Christian González sentado frente a una composición circular oscura" decoding="async" fetchpriority="high">
+    </figure>
+  </section>
+
+  <article class="article-content about-content">
+    {{ .Content }}
+  </article>
+</main>
+
+{{- partial "footer.html" . -}}
+
+{{ end }}
