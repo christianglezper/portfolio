@@ -8,6 +8,8 @@ toc: true
 
 <div class="portfolio-kicker">Comunicación política · Web · Mensaje</div>
 
+{{< portfolio-b64-image src="static/images/projects/dr-danny-sed-de-cambio.b64.txt" alt="Captura móvil del sitio de campaña del Dr. Daniel Ortiz Vargas con el mensaje Puerto Rico tiene sed de cambio" caption="Presencia web de campaña: ‘Puerto Rico tiene sed de cambio’." >}}
+
 ## Contexto
 
 Como parte de mi trabajo con el **Comité Dr. Daniel Ortiz Vargas**, asumí responsabilidades de comunicación y desarrollé activos digitales para presentar al candidato y sus valores de forma clara y coherente.
