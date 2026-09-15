@@ -1,0 +1,8 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" | default "" -}}
+{{- $data := readFile $src -}}
+<figure class="portfolio-project-image">
+  <img src="data:image/webp;base64,{{ $data | safeHTMLAttr }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+  {{- with $caption }}<figcaption>{{ . }}</figcaption>{{ end -}}
+</figure>
