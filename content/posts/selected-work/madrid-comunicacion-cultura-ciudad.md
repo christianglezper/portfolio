@@ -42,7 +42,11 @@ También conocí allí **Impulsa Comercio Segovia**, una iniciativa en la que el
 
 ## Instituciones que también comunican
 
+{{< portfolio-image src="https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_1600/v1789500036/portfolio/madrid/congreso-exterior.jpg" alt="Fachada del Congreso de los Diputados en Madrid con sus columnas y uno de los leones de bronce" caption="La fachada del Congreso convierte arquitectura y símbolos en una primera declaración institucional." >}}
+
 La visita al **Congreso de los Diputados** añadió otra capa a la experiencia. Más allá de la política partidista, entrar al espacio donde se debate y se legisla permitió observar cómo la arquitectura, el protocolo y la preservación histórica construyen una narrativa institucional.
+
+{{< portfolio-image src="https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_1600/v1789500039/portfolio/madrid/congreso-interior.jpg" alt="Interior del Congreso de los Diputados durante una visita al hemiciclo" caption="Dentro del hemiciclo, el protocolo, la historia y el espacio físico forman parte de la experiencia pública de la institución." >}}
 
 Las instituciones no comunican únicamente mediante comunicados de prensa. **Comunican mediante sus espacios, su accesibilidad, sus símbolos, la manera en que reciben al ciudadano y la confianza que son capaces de proyectar.** Para relaciones públicas, esa observación es especialmente importante: reputación e identidad institucional también se diseñan a través de experiencias.
 

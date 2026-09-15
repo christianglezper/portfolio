@@ -4,6 +4,7 @@ description: "Proyecto editorial bilingüe sobre Puerto Rico con enfoque en publ
 date: 2026-09-14T12:03:00-04:00
 tags: ["editorial", "bilingüe", "SEO", "medios digitales"]
 toc: true
+cover: "https://res.cloudinary.com/m2el9wb5/image/upload/c_fill,g_north,w_1200,h_630,f_auto,q_auto:best/v1789483953/portfolio/websites/puerto-rico-digest.jpg"
 ---
 
 <div class="portfolio-kicker">Editorial · Bilingüe · SEO</div>
@@ -11,6 +12,8 @@ toc: true
 ## Contexto
 
 **Puerto Rico Digest** fue un proyecto de publicación digital bilingüe dedicado a noticias y contenido sobre Puerto Rico.
+
+{{< portfolio-image src="https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_1400/v1789483953/portfolio/websites/puerto-rico-digest.jpg" alt="Captura de Puerto Rico Digest con su identidad bilingüe y un artículo de estilo" caption="Puerto Rico Digest combinó publicación bilingüe, temas de estilo y una estructura orientada al descubrimiento orgánico." >}}
 
 ## Reto
 
