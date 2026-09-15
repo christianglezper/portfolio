@@ -6,8 +6,8 @@ type: "page"
 layout: "about"
 toc: false
 lead: "Encuentro la tensión cultural dentro de un problema y la convierto en un brief, una campaña o una plataforma capaz de mover a la gente."
-portrait: "https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_900/v1789509987/portfolio/profile/christian-circle-portrait.jpg"
-cover: "https://res.cloudinary.com/m2el9wb5/image/upload/c_fill,g_auto,w_1200,h_630,f_auto,q_auto:best/v1789509987/portfolio/profile/christian-circle-portrait.jpg"
+portrait: "https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_900/v1789513046/portfolio/profile/christian-yellow-portrait.jpg"
+cover: "https://res.cloudinary.com/m2el9wb5/image/upload/c_fill,g_face,w_1200,h_630,f_auto,q_auto:best/v1789513046/portfolio/profile/christian-yellow-portrait.jpg"
 ---
 
 <section class="about-story-grid">
