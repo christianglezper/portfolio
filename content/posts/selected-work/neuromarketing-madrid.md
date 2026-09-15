@@ -24,7 +24,7 @@ También apareció una tensión útil para estrategia creativa. El contenido con
 
 El estudio utilizó **muestreo aleatorio simple** entre usuarios activos de redes sociales y comparó cuatro estímulos visuales con distintos niveles y contextos de prominencia del producto.
 
-{{< portfolio-b64-image src="static/images/projects/neuromarketing-metodologia.b64.txt" alt="Láminas del estudio de neuromarketing con preguntas de investigación y metodología basada en eye tracking, análisis de expresión facial y cuestionario" caption="Diseño de investigación: preguntas, procedimiento y herramientas de medición." >}}
+{{< portfolio-image src="images/projects/neuromarketing-metodologia.webp" alt="Láminas del estudio de neuromarketing con preguntas de investigación y metodología basada en eye tracking, análisis de expresión facial y cuestionario" caption="Diseño de investigación: preguntas, procedimiento y herramientas de medición." >}}
 
 La evaluación combinó tres herramientas:
 
@@ -36,7 +36,7 @@ Esta combinación permitió estudiar simultáneamente **qué miraba el participa
 
 ## Hallazgos principales
 
-{{< portfolio-b64-image src1="static/images/projects/neuromarketing-conclusiones.part1.b64.txt" src2="static/images/projects/neuromarketing-conclusiones.part2.b64.txt" src3="static/images/projects/neuromarketing-conclusiones.part3.b64.txt" src4="static/images/projects/neuromarketing-conclusiones.part4.b64.txt" alt="Láminas de conclusiones del estudio sobre prominencia de producto, claridad publicitaria, respuesta emocional, UGC e intención de compra" caption="Síntesis de conclusiones derivadas del eye tracking, respuesta emocional y cuestionario." >}}
+{{< portfolio-image src="images/projects/neuromarketing-conclusiones.webp" alt="Láminas de conclusiones del estudio sobre prominencia de producto, claridad publicitaria, respuesta emocional, UGC e intención de compra" caption="Síntesis de conclusiones derivadas del eye tracking, respuesta emocional y cuestionario." >}}
 
 ### 1. El contexto visual determina la prominencia
 
@@ -64,7 +64,7 @@ La principal conclusión para comunicación comercial fue evitar la falsa elecci
 
 **UGC + texto sutil + producto en acción = mayor equilibrio entre aceptación y efectividad.**
 
-{{< portfolio-b64-image src="static/images/projects/neuromarketing-recomendaciones.b64.txt" alt="Láminas con recomendaciones del estudio de neuromarketing para mejorar prominencia, claridad, rutas visuales y uso de UGC" caption="Recomendaciones aplicables a creatividad publicitaria y branded content." >}}
+{{< portfolio-image src="images/projects/neuromarketing-recomendaciones.webp" alt="Láminas con recomendaciones del estudio de neuromarketing para mejorar prominencia, claridad, rutas visuales y uso de UGC" caption="Recomendaciones aplicables a creatividad publicitaria y branded content." >}}
 
 A partir de los resultados, el estudio recomendó mantener entornos visualmente limpios, incorporar señales de marca visibles, mostrar el producto funcionando, controlar puntos de alto contraste y diseñar rutas visuales previsibles que conduzcan de **marca → persona → producto**.
 
