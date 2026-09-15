@@ -3,12 +3,13 @@ title: "Comité Dr. Daniel Ortiz Vargas — comunicación política y presencia 
 description: "Desarrollo de presencia digital y comunicación para una candidatura política en Puerto Rico."
 date: 2026-09-14T12:07:00-04:00
 tags: ["comunicación política", "web", "estrategia", "contenido"]
+cover: "https://res.cloudinary.com/m2el9wb5/image/upload/c_fill,g_north,w_1200,h_630,f_auto,q_auto:best/v1789505345/portfolio/daniel-ortiz/sed-de-cambio.jpg"
 toc: true
 ---
 
 <div class="portfolio-kicker">Comunicación política · Web · Mensaje</div>
 
-{{< portfolio-b64-image src="static/images/projects/dr-danny-sed-de-cambio.b64.txt" alt="Captura móvil del sitio de campaña del Dr. Daniel Ortiz Vargas con el mensaje Puerto Rico tiene sed de cambio" caption="Presencia web de campaña: ‘Puerto Rico tiene sed de cambio’." >}}
+{{< portfolio-image src="https://res.cloudinary.com/m2el9wb5/image/upload/f_auto,q_auto:best,c_limit,w_1000/v1789505345/portfolio/daniel-ortiz/sed-de-cambio.jpg" alt="Captura móvil del sitio de campaña del Dr. Daniel Ortiz Vargas con el mensaje Puerto Rico tiene sed de cambio" caption="Presencia web de campaña: ‘Puerto Rico tiene sed de cambio’." >}}
 
 ## Contexto
 
