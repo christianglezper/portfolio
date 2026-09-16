@@ -1,7 +1,7 @@
 ---
 title: "Publicidad política — una mirada histórica y analítica"
 description: "Clase magistral sobre persuasión, slogans, propaganda y la evolución de las campañas políticas en Puerto Rico desde 1948 hasta la era digital."
-date: 2026-09-16T19:45:00-04:00
+date: 2026-09-16T19:00:00-04:00
 tags: ["comunicación política", "publicidad", "investigación histórica", "docencia", "estrategia"]
 cover: "https://res.cloudinary.com/m2el9wb5/image/upload/c_fill,g_center,w_1200,h_630,f_auto,q_auto:best/v1789602089/publicidad-politica-cover.webp"
 toc: true
