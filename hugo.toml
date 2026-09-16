@@ -75,7 +75,7 @@ enableRobotsTXT = true
       author = 'Christian González'
       tagline = '// Estratega de comunicación'
       bio = 'Comunicación, relaciones públicas, publicidad y tecnología para convertir ideas en mensajes, experiencias y oportunidades.'
-      avatar = '/images/christian-avatar.webp'
+      avatar = 'https://res.cloudinary.com/m2el9wb5/image/upload/c_fill,g_face,w_500,h_500,f_auto,q_auto:best/v1789513046/portfolio/profile/christian-yellow-portrait.jpg'
 
       [[languages.es.params.social]]
         name = 'LinkedIn'
