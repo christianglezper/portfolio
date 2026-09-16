@@ -49,7 +49,7 @@ jobs:
           hugo build \
             --gc \
             --minify \
-            --baseURL "https://christianglezper.github.io/portfolio/"
+            --baseURL "https://christian.glezper.com/"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

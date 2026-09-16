@@ -1,4 +1,4 @@
-baseURL = 'https://christianglezper.github.io/portfolio/'
+baseURL = 'https://christian.glezper.com/'
 defaultContentLanguage = 'es'
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
