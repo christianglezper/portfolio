@@ -9,6 +9,4 @@ toc: false
 
 Puedes escribirme a **[christianglezper@gmail.com](mailto:christianglezper@gmail.com)**.
 
-También puedes revisar mi trabajo técnico y proyectos públicos en **[GitHub](https://github.com/christianglezper)**.
-
 <div class="portfolio-note">Disponible para conversaciones sobre estrategia de comunicación, relaciones públicas, publicidad, contenido, medios y proyectos que integren inteligencia artificial de manera práctica.</div>
